@@ -40,6 +40,7 @@ group :development, :test do
   gem 'pry'
   gem 'figaro'
   gem 'shoulda-matchers'
+  gem 'dotenv-rails'
 end
 
 group :development do
